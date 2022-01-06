@@ -1,0 +1,130 @@
+ .u-section-1 {
+  background-image: linear-gradient(#478ac9, #41807c);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 698px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 660px;
+  background-image: linear-gradient(#77aad9, #f5d654);
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 47px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  width: 321px;
+  text-decoration: underline !important;
+  margin: 9px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 91px;
+  height: 91px;
+  background-image: url("../images/ACESLOGO.png");
+  background-position: 50% 50%;
+  margin: 22px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 9px 0 0 26px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 654px;
+  background-image: url("../images/M19_Design.jpg");
+  background-position: 53.55% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 583px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 544px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 539px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 457px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 300px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 413px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 764px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 929px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 534px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 391px;
+  }
+}
